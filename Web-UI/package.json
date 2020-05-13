@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "version": "tsc --version",
+    "watch": "tsc --watch -p tsconfig.json",
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "3.9.2"
+  },
+  "dependencies": {}
+}
